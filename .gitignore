@@ -1,0 +1,5 @@
+# ignoring node_modules directory and all its contents in commits. They only increase commit size. 
+# User can install node pkgs on his/her system.
+node_modules/
+.vscode/
+package-lock.json
